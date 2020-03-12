@@ -1,0 +1,8 @@
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.deps.json
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.csprojAssemblyReference.cache
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.AssemblyInfoInputs.cache
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.AssemblyInfo.cs
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\franc\Source\Repos\Opgave-4\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.pdb
